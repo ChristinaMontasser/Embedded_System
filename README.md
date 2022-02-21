@@ -1,7 +1,9 @@
 # Embedded_System
-  ▪Microcontroller Interfacing (
+  ▪Microcontroller Interfacing.
   
-  ▪Communication protocols (UART, SPI, I2C) 
+  ▪Communication protocols (UART, SPI, I2C).
   
-  ▪RTOS 
+  ▪RTOS.
+  
+  Data-sheet is attached.
   
