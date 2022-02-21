@@ -1,0 +1,14 @@
+Timer.o Timer.o: ../Timer.c ../Types.h ../Macros.h ../DIO_Interface.h \
+  ../GI_Interface.h ../Timer_private.h ../Timer_interface.h
+
+../Types.h:
+
+../Macros.h:
+
+../DIO_Interface.h:
+
+../GI_Interface.h:
+
+../Timer_private.h:
+
+../Timer_interface.h:
